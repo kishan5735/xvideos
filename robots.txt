@@ -1,3 +1,11 @@
 User-agent: *
-Allow: /
-Sitemap: https://www.bolly-flixs.site/sitemap.xml
+Disallow: /siteadmin/
+Disallow: /cache/
+Disallow: /include/
+Disallow: /language/
+Disallow: /media/
+Disallow: /tmp/
+Disallow: /classes/
+Disallow: /templates/
+Disallow: /scripts/
+Disallow: /addons/
